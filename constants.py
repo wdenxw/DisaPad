@@ -24,7 +24,7 @@ class motionnamel:
     walk = ['0106CZPwalk-3-0', '0106CZPwalk-15-up4', '0106CZPwalk-34-up2']
 
 
-file_dir = '../dispaddata/'
+file_dir = 'dispaddata/'
 window = 1
 seq = 30
 ColumSuSmx = ['time', 'r1', 'r2', 'r3', 'r4', 'r5', 'r6', 'circular', 'lateral', 'rawname']

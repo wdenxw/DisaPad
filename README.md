@@ -20,7 +20,7 @@ constants.file_dir in constants.py.
 
 ## Dataset Preparation
 
-It requires that you download the data from the project page (We will update the link later).
+It requires that you decompress data in the DisPad_data folder.
 
 ## Example Usage
 
